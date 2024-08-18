@@ -1,0 +1,7 @@
+name: oci-network
+runtime: dotnet
+description: OCI networking
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: fsharp

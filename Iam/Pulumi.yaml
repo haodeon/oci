@@ -1,0 +1,7 @@
+name: oci-iam
+runtime: dotnet
+description: A minimal F# Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: fsharp
